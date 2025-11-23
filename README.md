@@ -1,6 +1,6 @@
 # EU-gas-imports-pre-and-post-war
 ## Overview
-This project aims to understand what was the impact on Europe after reducing the imports of Natural Gas from Russia due to the invasion of Ukraine in February 2022.\
+This project aims to understand what was the impact on Europe after reducing its imports of Natural Gas from Russia due to the invasion of Ukraine in February 2022.\
 In this project we'll answer the following questions:
 *	How much did Europe reduce its imports from Russia after the war ?
 *	Which European countries were the most dependent on Russia ?
