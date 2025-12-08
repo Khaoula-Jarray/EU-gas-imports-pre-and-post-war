@@ -1,11 +1,15 @@
 # EU-gas-imports-(2021-2025)
 ## Overview
 This project aims to understand what was the impact on Europe after reducing its imports of Natural Gas from Russia due to the invasion of Ukraine in February 2022 and if there was any risks.\
-In this project we'll answer the following questions:
+This project provide an answer to the following questions:
 *	How much did Europe reduce its imports from Russia after the war ?
 *	Which European countries were the most dependent on Russia ?
 *	Which countries replaced Russian Gas ?
 *	Have Gas prices stabilized after switching suppliers ?
+## Tech Stack Used
+- **Excel**
+- **MySQL**
+- **Python** 
 ## Data Collecting & Structuring
 The data was collected from 3 sources :
 - [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nrg_ti_gas__custom_19017962/default/table):\
