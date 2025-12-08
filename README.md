@@ -7,11 +7,12 @@ In this project we'll answer the following questions:
 *	Which countries replaced Russian Gas ?
 *	Have Gas prices stabilized after switching suppliers ?
 ## Data Collecting & Structuring
-- Europe's annual Natural Gas imports by country (data source : [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nrg_ti_gas__custom_19017962/default/table), Time range : 2021-2023)\
-    It was collected as a xlsx file and structered in Excel ( details in : [Excel Work](https://github.com/Khaoula-Jarray/EU-gas-imports-pre-and-post-war/tree/main/Excel%20Work) )
-- Europe's daily imports (data source: [Bruegel](https://www.bruegel.org/dataset/european-natural-gas-imports), Time range : 2021-Nov 2025)\
-    It was collected as a csv file ()
-- Natural Gas prices (data source : [YahooFinance](https://finance.yahoo.com/quote/TTF%3DF/history/?period1=1611273600&period2=1703203200&frequency=1mo), Time range : 2021-Nov 2025)\
-    It was collected by python using yfinance API ()
+The data was collected from 3 sources :
+- [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nrg_ti_gas__custom_19017962/default/table):\
+   A xlsx file containing datasets of the annual gas imports of each European country by supplier, from 2014 to 2023.
+- [Bruegel](https://www.bruegel.org/dataset/european-natural-gas-imports):\
+   A csv file indicating the daily gas imports of Europe from 2021 to October 2025.
+- [YahooFinance](https://finance.yahoo.com/quote/TTF%3DF/history/?period1=1611273600&period2=1703203200&frequency=1mo):\
+  Natural gas prices data (TTF) and it was collected using the Yahoo Finance API in Python via the yfinance library.
 
   
