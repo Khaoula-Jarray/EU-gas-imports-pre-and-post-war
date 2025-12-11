@@ -4,7 +4,7 @@ This project aims to understand what was the impact on Europe after reducing its
 This project provide an answer to the following questions:
 *	How much did Europe reduce its imports from Russia after the war ?
 *	Which European countries were the most dependent on Russia ?
-*	Which countries replaced Russian Gas ?
+*	Which suppliers replaced Russia ?
 *	Have Gas prices stabilized after switching suppliers ?
 ## Tech Stack Used
 - **Excel**
