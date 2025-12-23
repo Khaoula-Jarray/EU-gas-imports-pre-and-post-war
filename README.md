@@ -16,6 +16,7 @@ In this project the data was collected from 3 differents sources :
 * **Excel**
 * **Python** (pandas, yfinance)
 * **MySQL**
+* **Power BI**
 ## Methodology 
 **A. Data Collecting :**\
    In this project we have 3 main tables :
@@ -28,6 +29,9 @@ In this project the data was collected from 3 differents sources :
       yfinance library(API) in Python.\
 
 **B. Data Cleaning :**\
+   Excel was used to just reformulate the dataset imported from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nrg_ti_gas__custom_19017962/default/table).\
+   And the main tool for data cleaning was MySQL.\
+   The cleaning process detailed in [Data Cleaning](https://github.com/Khaoula-Jarray/EU-gas-imports-pre-and-post-war/tree/main/Data%20Cleaning).
 
 **C. Data Analysis :**
 ## Analysis & Key Insights
