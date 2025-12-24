@@ -1,4 +1,4 @@
-# EU-gas-imports-(2021-2025)
+# EU Gas imports (2021-2025)
 ## Overview
 This project aims to analyze the overall change in EU Natural Gas imports specifically from Russia and its impact on EU since the Russian invasion of Ukraine in February 2022.
 ## Research Questions
@@ -39,11 +39,11 @@ The data was collected from 3 different sources :
    - Analyzed TTF price trends before and after 2022 to assess market stabilization.
    All the SQL queries are documented in [/Data Analysis/data_analysis.sql](https://github.com/Khaoula-Jarray/EU-gas-imports-pre-and-post-war/blob/main/Data%20Analysis/data_analysis.sql).
 ## Analysis & Key Insights
-- Russian imports reduced by approximately 80% (117, Million m<sup>3</sup>) from **150K** Million m<sup>3</sup> in 2021 to **33K** Million m<sup>3</sup> in 2024, and simultaneously the LNG and Norway imports increased to fulfill the gap (see Figure 2&3).
+- Russian imports reduced by approximately 80% (117,624 million m<sup>3</sup>) from **150,873** million m<sup>3</sup> in 2021 to **33,249** million m<sup>3</sup> in 2024, and simultaneously the LNG and Norway imports increased to fulfill the gap (see Figure 2&3).
 - The 7 most dependent countries on Russian Gas before 2022 are :\
   100% dependency : Czechia, Latvia, Bosnia and Herzegovina, North Macedonia, Serbia.\
   \>95% dependency : Moldova, Hungary (see Figure 4).
-- TTF price increased significantly in 2022, from **47.6** €/MWh in 2021 to **133.3** €/MWh in 2022, and it returned close to pre-2022 levels (41.2 €/MWh) in 2023 (see Figure 5).
+- TTF price increased significantly in 2022, from **47.6** €/MWh in 2021 to **133.3** €/MWh in 2022, and it returned close to pre-2022 levels (**41.2** €/MWh) in 2023 (see Figure 5).
 ## Visualizations
 **The report :**
 
@@ -67,9 +67,9 @@ The data was collected from 3 different sources :
 -----------------------------------------------------------------------------------------
 **TTF Natural Gas Prices (€/MWh) - Monthly Average :**
 
-<img width="1355" height="698" alt="Screenshot 2025-12-23 171118" src="https://github.com/user-attachments/assets/b088001f-619e-4488-9410-e9d468b1a71c" />
+<img width="1355" height="698" alt="Screenshot 2025-12-23 171118" src="https://github.com/user-attachments/assets/b088001f-619e-4488-9410-e9d468b1a71c" />\
 -Figure 5-
-
+----
 ## Limitations
 - **Suppliers**: Not all the suppliers were mentioned, the focus was only on few of them.
 - **Time Range**: The last date in data is October 31st 2025 because the data was downloaded in the mid of November 2025. And the year 2025 was not treated as a full year in any comparison. 
