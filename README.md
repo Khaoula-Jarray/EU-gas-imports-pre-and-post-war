@@ -25,7 +25,7 @@ The data was collected from 3 different sources :
    * raw_imports_by_country (2014-2023):
       The data was downloaded as an xlsx file.
    * raw_natural_gas_prices (2021-2025):
-      The data was collected using the yfinance library(API) in Python.\
+      The data was collected using the yfinance library(API) in Python.
 
 **B. Data Cleaning :**\
    Excel was used to just reformulate the dataset imported from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nrg_ti_gas__custom_19017962/default/table).\
@@ -40,6 +40,7 @@ The data was collected from 3 different sources :
    All the SQL queries are documented in [/Data Analysis/data_analysis.sql](https://github.com/Khaoula-Jarray/EU-gas-imports-pre-and-post-war/blob/main/Data%20Analysis/data_analysis.sql).
 ## Analysis & Key Insights
 - Russian imports reduced by approximately 80% (117,624 million m<sup>3</sup>) from **150,873** million m<sup>3</sup> in 2021 to **33,249** million m<sup>3</sup> in 2024, and simultaneously the LNG and Norway imports increased to fulfill the gap (see Figure 2&3).
+  -> EU succeeded in replacing its **major** Natural Gas supplier (Russia) within 3.
 - The 7 most dependent countries on Russian Gas before 2022 are :\
   100% dependency : Czechia, Latvia, Bosnia and Herzegovina, North Macedonia, Serbia.\
   \>95% dependency : Moldova, Hungary (see Figure 4).
