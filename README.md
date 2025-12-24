@@ -45,30 +45,30 @@ The data was collected from 3 different sources :
   \>95% dependency : Moldova, Hungary (see Figure 4).
 - TTF price increased significantly in 2022, from **47.6** €/MWh in 2021 to **133.3** €/MWh in 2022, and it returned close to pre-2022 levels (41.2 €/MWh) in 2023 (see Figure 5).
 ## Visualizations
-The report :
+**The report :**
 
-<img width="1307" height="726" alt="Screenshot 2025-12-23 170449" src="https://github.com/user-attachments/assets/a05711d0-2610-43a2-9275-b04536633e8f" />
->-Figure 1-
+<img width="1307" height="726" alt="Screenshot 2025-12-23 170449" src="https://github.com/user-attachments/assets/a05711d0-2610-43a2-9275-b04536633e8f" />\
+-Figure 1-
+-----------------------------------------------------------------------------------------
+**EU Monthly Russian Gas imports (Million m³):**
 
-EU Monthly Russian Gas imports (Million m³):
+<img width="1320" height="714" alt="Screenshot 2025-12-23 170719" src="https://github.com/user-attachments/assets/52b75509-cb7d-49ee-a557-0ea7eaf1c1e3" />\
+-Figure 2-
+-----------------------------------------------------------------------------------------
+**EU monthly Gas imports by supplier in 2022 (Million m³):**
 
-<img width="1320" height="714" alt="Screenshot 2025-12-23 170719" src="https://github.com/user-attachments/assets/52b75509-cb7d-49ee-a557-0ea7eaf1c1e3" />
->-Figure 2-
+<img width="1359" height="703" alt="Screenshot 2025-12-23 170901" src="https://github.com/user-attachments/assets/3f50f6b4-baa1-4214-9c03-d4594442896d" />\
+-Figure 3-
+-----------------------------------------------------------------------------------------
+**The 7 most dependent countries on Russian gas (2021):**
 
-EU monthly Gas imports by supplier in 2022 (Million m³):
-
-<img width="1359" height="703" alt="Screenshot 2025-12-23 170901" src="https://github.com/user-attachments/assets/3f50f6b4-baa1-4214-9c03-d4594442896d" />
->-Figure 3-
-
-The 7 most dependent countries on Russian gas (2021):
-
-<img width="1358" height="702" alt="Screenshot 2025-12-23 170949" src="https://github.com/user-attachments/assets/eba23430-555d-41e3-8ec6-f3b6bfc315f7" />
->-Figure 4-
-
-TTF Natural Gas Prices (€/MWh) - Monthly Average :
+<img width="1358" height="702" alt="Screenshot 2025-12-23 170949" src="https://github.com/user-attachments/assets/eba23430-555d-41e3-8ec6-f3b6bfc315f7" />\
+-Figure 4-
+-----------------------------------------------------------------------------------------
+**TTF Natural Gas Prices (€/MWh) - Monthly Average :**
 
 <img width="1355" height="698" alt="Screenshot 2025-12-23 171118" src="https://github.com/user-attachments/assets/b088001f-619e-4488-9410-e9d468b1a71c" />
->-Figure 5-
+-Figure 5-
 
 ## Limitations
 - **Suppliers**: Not all the suppliers were mentioned, the focus was only on few of them.
