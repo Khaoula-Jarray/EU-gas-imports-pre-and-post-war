@@ -39,17 +39,18 @@ The data was collected from 3 different sources :
    - Analyzed TTF price trends before and after 2022 to assess market stabilization.
    All the SQL queries are documented in [/Data Analysis/data_analysis.sql](https://github.com/Khaoula-Jarray/EU-gas-imports-pre-and-post-war/blob/main/Data%20Analysis/data_analysis.sql).
 ## Analysis & Key Insights
-- Russian imports reduced by approximately 80% (117,624 million m<sup>3</sup>) from **150,873** million m<sup>3</sup> in 2021 to **33,249** million m<sup>3</sup> in 2024, and simultaneously the LNG(e.g USA, Qatar) and Norway imports increased to fulfill the gap, marking a structural break in energy dependency rather than a temporary adjustment (see Figure 2&3).
+- Russian imports reduced by approximately 80% (-117,624 million m<sup>3</sup>) dropping from **150,873** million m<sup>3</sup> in 2021 to **33,249** million m<sup>3</sup> in 2024, and simultaneously the LNG(e.g USA, Qatar) and Norwegian imports increased to fulfill the gap, marking a structural break in energy dependency rather than a temporary adjustment (see Figure 2&3).
 - European countries showed different dependencies on the Russian Gas pre-2022, which indicates asymmetric risk during the supply shock
-- The 7 most dependent countries on Russian Gas before 2022 are :\
+  The 7 most dependent countries on Russian Gas before 2022 are :\
   100% dependency : Czechia, Latvia, Bosnia and Herzegovina, North Macedonia, Serbia.\
   \>95% dependency : Moldova, Hungary (see Figure 4).
 - TTF price increased significantly in 2022, from **47.6** €/MWh in 2021 to **133.3** €/MWh in 2022, and it returned close to pre-2022 levels (**41.2** €/MWh) in 2023 (see Figure 5).
-- While alternative gas supplies replaced Russian volumes relatively quickly, prices remained elevated for longer.
+- While alternative gas supplies replaced Russian volumes relatively quickly, prices remained elevated for longer period, indicating that market takes more time to adjust.
 ## Visualizations
 **The report :**
 
-<img width="1307" height="726" alt="Screenshot 2025-12-23 170449" src="https://github.com/user-attachments/assets/a05711d0-2610-43a2-9275-b04536633e8f" />\
+<img width="1308" height="725" alt="Screenshot 2025-12-24 162721" src="https://github.com/user-attachments/assets/b80680b8-8018-4f1c-be66-543ce8c02554" />
+
 Figure 1
 ----
 **EU Monthly Russian Gas imports (Million m³):**
